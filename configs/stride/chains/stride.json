@@ -2,8 +2,8 @@
   "type": "cosmos",
   "value": {
     "key": "wallet",
-    "chain-id": "STRIDE-TESTNET-2",
-    "rpc-addr": "http://127.0.0.1:26677",
+    "chain-id": "STRIDE-TESTNET-4",
+    "rpc-addr": "http://127.0.0.1:16657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
